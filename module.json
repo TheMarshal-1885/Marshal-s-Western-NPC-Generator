@@ -1,6 +1,6 @@
 {
-  "name": "western-npc-generator",
-  "title": "Western NPC Generator",
+  "name": "marshal-s-western-npc-generator",
+  "title": "Marshal's Western NPC Generator",
   "description": "Generate authentic Western NPCs for your Savage Worlds or Western campaigns. Created by Troy Mepyans (Marshal Games), featuring comprehensive name tables, professions, and character details perfect for frontier towns and Wild West adventures.",
   "authors": [
     {
@@ -38,9 +38,9 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "https://github.com/marshal-games/western-npc-generator",
-  "manifest": "https://github.com/marshal-games/western-npc-generator/releases/latest/download/module.json",
-  "download": "https://github.com/marshal-games/western-npc-generator/releases/latest/download/western-npc-generator.zip",
+  "url": "https://github.com/TheMarshal-1885/Marshal-s-Western-NPC-Generator",
+  "manifest": "https://github.com/TheMarshal-1885/Marshal-s-Western-NPC-Generator/releases/latest/download/module.json",
+  "download": "https://github.com/TheMarshal-1885/Marshal-s-Western-NPC-Generator/releases/latest/download/marshal-s-western-npc-generator.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
